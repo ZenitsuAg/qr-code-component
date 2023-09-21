@@ -4,14 +4,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+  - [Author](#author)
 
 ## Overview
 
@@ -21,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-basic-html-and-css-CGlJRVYYOQ)
+- Live Site URL: [GitHub Pages](https://zenitsuag.github.io/qr-code-component/)
 
 ## My process
 
@@ -32,6 +34,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 
 ### What I learned
+
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 At first, this challenge seemed easy but when I started, I got a little bit stuck, I tried using CSS flexbox, but it wasn't working and also the text p and h1 text had different bg-color, it wasn't the same with the div so I changed the code from;
 
@@ -57,5 +61,4 @@ I'm going to focus on my CSS, I sometimes tend to forget the property values for
 ## Author
 
 - Frontend Mentor - [@ZenitsuAg](https://www.frontendmentor.io/profile/ZenitsuAg)
-- Twitter - [@freddyR9](https://www.twitter.com/freddyR9)
-
+- Twitter - [@r9_freddy](https://www.twitter.com/r9_freddy)
